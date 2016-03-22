@@ -1,0 +1,30 @@
+h1 {
+	color:white;
+	text-align: center;
+	font-family:arial;
+	font-size:900;
+}
+p {
+	color:white;
+	text-align:left;
+	font-family:helvetica;
+}
+body {
+	background-color: gray;
+}
+ul {
+	background:white;
+	padding: 15px;
+	color:gray;
+	text-align:left;
+	font-family:arial;
+
+}
+h2 {
+	color:white;
+	text-align:left;
+	font-family:arial;
+}
+a {
+	color:pink;
+}
